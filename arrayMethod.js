@@ -69,6 +69,6 @@ for( let i = 0; i < fruits.length; i++){
  const userInfos = [
     {name:"Chadwick", location: "Los Angeles", work: "Actor", gender: "Male"} // first create an array of objects
  ];
-userInfos.map(userInfo => console.log( "name:",userInfo.name,  "location:",userInfo.location, "work:", userInfo.work,"gender:", userInfo.gender)); // use mapping methos to display each item
+userInfos.map(userInfo => console.log( "name:",userInfo.name,  "location:",userInfo.location, "work:", userInfo.work,"gender:", userInfo.gender)); // use mapping method to display each item
 // call on variable you want to map out and add .map() inside the parameter add your arguments and when console logging ,
 // console log the new variable you created inside the map parameter .name or any item in the array object...
