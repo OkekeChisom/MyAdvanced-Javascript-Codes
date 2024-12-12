@@ -1,0 +1,9 @@
+.container{
+    align-items: center;
+    border: 20px;
+    text-align: center;
+    padding: 30px;
+}
+.calculator{
+    background-color: rgb(78, 98, 97);
+}
